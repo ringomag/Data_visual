@@ -1,5 +1,7 @@
-In this task, I used python virtual env, pip, matplotlib, numpy, pandas, seaborn.
+This is practice of usage python libs like: matplotlib, numpy, pandas, seaborn.
 So:
+
+In this examples is represented Bivariate Normal Distributon, and Square Function.
 
 Create virtual env, using python -m venv env
 #start the env : source env/bin/activate
