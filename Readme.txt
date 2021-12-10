@@ -1,4 +1,4 @@
-This is practice of usage python libs like: matplotlib, numpy, pandas, seaborn.
+This is an exercise in using python libs like: matplotlib, numpy, pandas, seaborn.
 So:
 
 In this examples is represented Bivariate Normal Distributon, and Square Function.
